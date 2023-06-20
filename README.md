@@ -5,9 +5,9 @@
 ## 1.   Część związana z kodowaniem (katalog – [code_part](/code_part))
 ##### Napisałem dość prosty program testowy o nazwie **Task Manager**.  
 Pliki programu: 
-- [app.py](app.py)
-- [task_manager.py](task_manager.py)
-- [taks_save.py](taks_save.py)
+- [app.py](/code_part/app.py)
+- [task_manager.py](/code_part/task_manager.py)
+- [taks_save.py](/code_part/taks_save.py)
 
 W tym katalogu znajdują się testy (unittest) dla programu. Ogólna dokumentacja znajduje się w plikach testowych. Poniżej znajduje się pełna dokumentacja dla tych plików:
 
