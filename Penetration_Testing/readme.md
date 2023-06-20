@@ -1,0 +1,3 @@
+### Nie byłem w stanie zainstalować Kali Linux na Macbooku, załączyłem zdjęcia, które pokazują niektóre z wielu problemów. Najprawdopodobniej to środowisko nie nadaje się do instalacji pod MacOS na procesorze Arm, ale nie mam innego wyboru. Próbowałem wiele razy, naprawdę próbowałem, ale nic nie działało.
+
+### Próbowałem również zainstalować to środowisko wirtualne w systemie Windows, ale nie udało mi się. Za każdym razem, gdy uruchamiałem środowisko, natychmiast się zamykało. Wypróbowałem wiele wersji, zmieniłem konfigurację i ustawienia, ale to nie zadziałało. Niestety nie mogę załączyć żadnych zdjęć.
